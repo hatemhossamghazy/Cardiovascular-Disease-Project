@@ -50,7 +50,6 @@ The project demonstrates how ensemble methods can improve predictive accuracy an
 - Confusion Matrix and SHAP values were used to visualize model performance and interpret feature importance  
 - The pipeline is reproducible and modular for experimentation with new models or datasets
 
-*(Optional: Include screenshots, plots, or tables here if available)*
 
 ---
 
